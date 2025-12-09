@@ -1,0 +1,7 @@
+{
+  "name": "Lumière Noël - Gesture Tree",
+  "description": "A cinematic, gesture-controlled 3D Christmas tree experience. Use your hands to assemble, scatter, and explore memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
